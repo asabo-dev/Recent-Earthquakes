@@ -1,0 +1,1 @@
+This project visualizes earthquake activity from the past 7 days using data from the USGS Earthquake Hazards Program. The dataset, available in GeoJSON format, was sourced from [USGS Significant Earthquakes Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson). The visualization was created using Plotly Express.
